@@ -5,8 +5,8 @@ import requests
 
 def lambda_handler(event, context):
     clickType=event['clickType']
-    message = os.getenv('{}_CLICK'format(clickType))
-    r = send_notify(message)
+    message = os.getenv('{}_CLICK'.format(clickType))
+    r = send_notify_to_slack(message)
     return json.dumps(r.text)
     
 
