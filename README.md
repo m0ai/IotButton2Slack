@@ -64,3 +64,5 @@ terraform apply
 ## 결과
 
 ![image](https://user-images.githubusercontent.com/13462317/60394901-36362b80-9b66-11e9-869a-e6b3b60b5562.png)
+
+슬랙봇의 이름은 .. 노코멘트 
