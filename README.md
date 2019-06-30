@@ -3,14 +3,14 @@
 설정하기를 완료하면 aws lambda를 이용하여 간단하게 슬랙 메세지를 보낼 수 있어요.
 
 # 필요사항
-``
+```
 terraform 0.11 
 python3.6
 집에서 놀고 있는 AWS IoT 버튼 1개
 버튼을 핸들링할 aws 계정 
 ```
 
-[terraform이 무엇인가요](https://www.hashicorp.com/blog/announcing-terraform-0-12) >= 0.12
+[terraform이 무엇인가요](https://www.terraform.io/) 
 
 # 설정하기
 
