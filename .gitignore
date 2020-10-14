@@ -9,5 +9,5 @@
 crash.log
 
 # Lambda 
-./lambda/
-./lambda.zip
+**/lambda/*
+**/lambda.zip
