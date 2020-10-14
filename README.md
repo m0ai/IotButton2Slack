@@ -33,7 +33,7 @@ make publish   # lambda에 업로드할 zip을 생성합니다.
 `message` 에 정의되어 있는 `single_click`, `double_click`, `long_click` 은 버튼을 눌렀을 시 슬랙으로 발송될 문자입니다. 적절한 값으로 변경해서 사용하면 더 재미있을거에요. :)
 
 
-```haskell
+```hcl
 # ./terraform/main.tf
 provider "aws" {
   region  = "ap-northeast-2"
