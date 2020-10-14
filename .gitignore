@@ -8,3 +8,6 @@
 # Crash log files
 crash.log
 
+# Lambda 
+./lambda/
+./lambda.zip
