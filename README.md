@@ -34,7 +34,7 @@ make publish   # lambda에 업로드할 zip을 생성합니다.
 
 
 ```haskell
-// ./terraform/main.tf
+# ./terraform/main.tf
 provider "aws" {
   region  = "ap-northeast-2"
 }
