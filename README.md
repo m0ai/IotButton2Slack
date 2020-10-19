@@ -99,3 +99,4 @@ terraform apply
 
 - [우아한 형제들 - 차임벨](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 - [당근마켓 - 화분 물주기 알림이](https://medium.com/daangn/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
+
